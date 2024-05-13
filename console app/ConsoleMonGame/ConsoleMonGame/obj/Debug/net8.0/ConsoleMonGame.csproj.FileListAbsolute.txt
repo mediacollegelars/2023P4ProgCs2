@@ -1,0 +1,5 @@
+C:\progperiode4\2023P4ProgCs2\console app\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\progperiode4\2023P4ProgCs2\console app\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.AssemblyInfoInputs.cache
+C:\progperiode4\2023P4ProgCs2\console app\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.AssemblyInfo.cs
+C:\progperiode4\2023P4ProgCs2\console app\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.csproj.CoreCompileInputs.cache
+C:\progperiode4\2023P4ProgCs2\console app\ConsoleMonGame\ConsoleMonGame\obj\Debug\net8.0\ConsoleMonGame.sourcelink.json
